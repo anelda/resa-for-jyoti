@@ -17,12 +17,10 @@ sections:
           {style="color: white; font-size: 1.5rem; "} 
         
         {{< cta cta_text="Learn more" cta_link="about-resa" cta_new_tab="false" >}}
-
-
     design:
       background:
         image:
-          filename: main-hero.png
+          filename: welcome.jpg
           filters:
             brightness: 1
           parallax: false
