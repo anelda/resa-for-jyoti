@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: resa
   theme_night:
   font: native
   font_size: L
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Research Software Alliance. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/researchsoft/website'
     content_dir: content
     branch: main
   avatar:
